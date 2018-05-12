@@ -1,0 +1,40 @@
+_repo: Argentine-Ornithology-Volume-I--of-2-A-descriptive-catalogue-of-the-birds-of-the-Argentine-Re__38956
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38956-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sclater, Philip Lutley
+    alias: Sclater, P. L. (Philip Lutley)
+    birthdate: 1829
+    deathdate: 1913
+    gutenberg_agent_id: '39749'
+    url: http://www.gutenberg.org/2009/agents/39749
+  - agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2012-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Argentina'
+title: "Argentine Ornithology, Volume 1 (of 2)\r\nA descriptive catalogue of the birds\
+  \ of the Argentine Republic."
+url: http://www.gutenberg.org/ebooks/38956
