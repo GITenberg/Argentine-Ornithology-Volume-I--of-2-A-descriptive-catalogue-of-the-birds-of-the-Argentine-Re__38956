@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/484
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38956#Argentine-Ornithology-Volume-I--of-2-A-descriptive-catalogue-of-the-birds-of-the-Argentine-Re_
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Animal
